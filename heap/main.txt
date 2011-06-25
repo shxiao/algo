@@ -1,0 +1,14 @@
+﻿1-1
+2^(n-1)+1, 2^n
+1-2  
+(4-7) lg7
+    1        2^0
+   1  2      2^1
+  1  2 2 2   2^2
+  
+1-4
+left node, because  node parent greater child node
+1-5
+yes, a[n]<a[2n] and a[n] < a[2n+1], n<2n and n < 2n+1; when n >=1
+1-6
+{23,17,14,6,13,10,1,5,7,12} it's not max-heap, a[4]6<a[9]7
